@@ -66,7 +66,7 @@
 ![image](https://github.com/AIVLE-ENTER/GIT-CONVENTION/assets/95211722/bdcd58a1-4d08-4ad3-85f8-b657cf5bf175)
 
 [형태]
-Type: Imoji Subject
+Type: Imoji Subject <br/>
 Body
 - 전부 영어로 작성할 것
 - 제목은 50자를 넘기지 않을 것
