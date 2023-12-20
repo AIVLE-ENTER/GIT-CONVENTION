@@ -16,3 +16,6 @@
 | Rename | 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우 |
 | Remove | 파일을 삭제하는 작업만 수행한 경우 |
 | Release | 버전 릴리즈 커밋 |
+
+
+<a target="_blank" href="https://junhyunny.github.io/information/github/git-commit-message-rule/">자세한 설명 보러가기</a>
