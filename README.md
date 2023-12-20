@@ -65,12 +65,14 @@
 
 ![image](https://github.com/AIVLE-ENTER/GIT-CONVENTION/assets/95211722/bdcd58a1-4d08-4ad3-85f8-b657cf5bf175)
 
-[형태]
+[형태] <br/>
 Type: Imoji Subject <br/>
-Body
+Body <br/>
+Footer <br/>
 - 전부 영어로 작성할 것
 - 제목은 50자를 넘기지 않을 것
 - 본문은 한줄에 72자를 넘기지 않을 것
+- 본문과 푸터는 선택사항 (안써도 됨!!)
 
-
+<a target="_blank" href="https://velog.io/@shin6403/Git-git-%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0">이거 꼭 읽으세요!!</a>
 <a target="_blank" href="https://junhyunny.github.io/information/github/git-commit-message-rule/">자세한 설명 보러가기</a>
